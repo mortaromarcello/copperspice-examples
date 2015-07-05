@@ -2,7 +2,7 @@
 For debian:
 Download copperspice-debian-i386.tar.bz2:
 
-  wget https://www.dropbox.com/s/ypqsk1zqhocre0q/copperspice-debian.tar.bz2?dl=0
+  wget https://www.dropbox.com/s/ypqsk1zqhocre0q/copperspice-debian.tar.bz2
   
 unpacks to $HOME/copperspice:
 
