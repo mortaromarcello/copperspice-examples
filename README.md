@@ -16,7 +16,7 @@ add the library to ldconfig environment:
   
   EOF
   
-where <user> is the current user.
+where "user" is the current user.
 
 Update ldconfig:
 
