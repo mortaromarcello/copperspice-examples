@@ -12,7 +12,7 @@ add the library to ldconfig environment:
 
   sudo cat > /etc/ld.so.conf.d/copperspice.conf <<EOF
   
-  /home/<user>/copperspice/lib
+  /home/user/copperspice/lib
   
   EOF
   
