@@ -8,7 +8,7 @@ unpacks to $HOME/copperspice:
 
   tar -xvf copperspice-debian.tar.bz2 -C $HOME/copperspice
   
-add the library to ldconfig envirnmento:
+add the library to ldconfig environment:
 
   sudo cat > /etc/ld.so.conf.d/copperspice.conf <<EOF
   
