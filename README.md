@@ -5,8 +5,10 @@ Download copperspice-debian-i386.tar.bz2:
   wget https://www.dropbox.com/s/ypqsk1zqhocre0q/copperspice-debian.tar.bz2
   
 unpacks to $HOME/copperspice:
-
-  tar -xvf copperspice-debian.tar.bz2 -C $HOME/copperspice
+  
+  mkdir $HOME/copperspice
+  
+  tar -xvjf copperspice-debian.tar.bz2 -C $HOME/copperspice
   
 add the library to ldconfig environment:
 
