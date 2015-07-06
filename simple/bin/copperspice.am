@@ -36,5 +36,5 @@ ui_%.h: forms/%.ui
 	$(UIC) $< -o $@
 
 clean-local:
-	-rm qrc_*.cpp
-	-rm ui_*.h
+	-rm -f qrc_*.cpp
+	-rm -f ui_*.h
